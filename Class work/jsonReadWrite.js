@@ -1,4 +1,5 @@
 let fs = require("fs");
+//input can be only in objects and array format ,for that only we use json 
 // object ,array 
 // object -> contain string as key 
 // {
